@@ -1,0 +1,92 @@
+[
+{	
+	"content" : "Computer Networking",
+	"question" : "A network router joins two _________ together?",
+	"a": "Computers",
+	"b": "Switches",
+	"c": "Networks",
+	"d": "Gateway",
+	"answer":  "C"
+},
+{	
+	"content" : "Computer Networking",
+	"question" : "Ping command works on which protocol?",
+	"a": "ICMP",
+	"b": "TCP",
+	"c": "IP",
+	"d": "UDP",
+	"answer":  "A"
+},
+{	
+	"content" : "Computer Networking",
+	"question" : "What is the port number for HTTP?",
+	"a": "25",
+	"b": "80",
+	"c": "21",
+	"d": "65",
+	"answer":  "B"
+},
+{	
+	"content" : "Computer Networking",
+	"question" : "WHat is the size of an IP address?",
+	"a": "64 bit",
+	"b": "128 bit",
+	"c": "16 bit",
+	"d": "32 bit",
+	"answer":  "D"
+},
+{	
+	"content" : "Computer Networking",
+	"question" : "A network point that provides entrance into another network is called as ___________",
+	"a": "Node",
+	"b": "Gateway",
+	"c": "Switch",
+	"d": "Router",
+    "answer":  "B"
+},
+{	
+	"content" : "Computer Networking",
+	"question" : "TELNET used _________ protocol for data connection",
+	"a": "TCP",
+	"b": "UDP",
+	"c": "IP",
+	"d": "DHCP",
+	"answer":  "A"
+},
+{	
+	"content" : "Computer Networking",
+	"question" : "IPv6 has _______ -bit addresses.",
+	"a": "32",
+	"b": "64",
+	"c": "128",
+	"d": "Variable",
+	"answer":  "C"
+},
+{
+    "content" : "Computer Networking",
+    "question" : "Which of the folowings is not a direct implication of subnet masks in TCP/IP networks?",
+    "a": "Reduce network traffic",
+    "b": "Increase network security",
+    "c": "Assignment of more IP addresses",
+    "d": "Better network management",
+    "answer":  "C"
+},
+{
+    "content" : "Computer Networking",
+    "question" : "Which application below uses the UDP protocol?",
+    "a": "DNS",
+    "b": "TFTP",
+    "c": "RIP",
+    "d": "All of the above",
+    "answer":  "C"
+},
+{
+    "content" : "Computer Networking",
+    "question" : "Which of the following is private IP address?",
+    "a": "12.0.0.1",
+    "b": "168.172.19.39",
+    "c": "172.15.14.36",
+    "d": "192.168.24.43",
+    "answer":  "D"
+}
+]
